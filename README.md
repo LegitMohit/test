@@ -1,5 +1,4 @@
 # 🇮🇳 Incredible India - Tourist Website
-# 🇮🇳 Incredible India - Tourist Website
 
 A beautiful, responsive website showcasing the amazing tourist destinations of India. Built with pure HTML, CSS, and JavaScript.
 
