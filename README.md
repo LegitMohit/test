@@ -196,3 +196,4 @@ For questions, suggestions, or contributions:
 5. **Enjoy** the smooth animations and responsive design!
 
 *Experience the beauty and diversity of India through this interactive website.*
+# New heading added
