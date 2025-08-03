@@ -1,4 +1,4 @@
-# this is branch 2
+# main
 
 A beautiful, responsive website showcasing the amazing tourist destinations of India. Built with pure HTML, CSS, and JavaScript.
 
